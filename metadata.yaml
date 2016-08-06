@@ -1,0 +1,36 @@
+_repo: The-Desert-of-Wheat_10201
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: The Desert of Wheat is a thrilling and romantic tale of sabotage in the
+  wheat fields of the Pacific Northwest during World War I. A passionate novel of
+  patriotic and anti-union propaganda, it portrays the anxieties of the young country
+  threatened by a foreign war after the closing of the frontier. Grey captures the
+  heart of a nation at the brink of a century of change.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Western
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: The Desert of Wheat
+url: http://www.gutenberg.org/ebooks/10201
