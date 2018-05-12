@@ -1,5 +1,8 @@
 _repo: The-Desert-of-Wheat_10201
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -16,6 +19,8 @@ description: The Desert of Wheat is a thrilling and romantic tale of sabotage in
   patriotic and anti-union propaganda, it portrays the anxieties of the young country
   threatened by a foreign war after the closing of the frontier. Grey captures the
   heart of a nation at the brink of a century of change.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10201#The-Desert-of-Wheat
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Western
